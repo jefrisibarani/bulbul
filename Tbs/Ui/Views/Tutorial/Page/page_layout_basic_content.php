@@ -1,0 +1,1 @@
+<img src="<?php echo $page->dirImg(). 'PageLayout_BasicContent.png'; ?>" class="img-fluid" alt="...">

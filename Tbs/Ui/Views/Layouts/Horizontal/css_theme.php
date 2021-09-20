@@ -1,0 +1,1 @@
+      <link href="<?php echo $page->dirCssTheme() .'site.css'; ?>" rel="stylesheet" />
