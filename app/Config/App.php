@@ -23,7 +23,7 @@ class App extends BaseConfig
 	 *
 	 * @var string
 	 */
-	public $baseURL = 'https://alklin.local';
+	public $baseURL = 'https://devel.local';
 
 	/**
 	 * --------------------------------------------------------------------------
